@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <string name="back4app_app_id">nVceWxZqfgxgkTfEF4NhSyLMuFZVgD0Fw0Q7BM61</string>
+    <string name="back4app_client_key">arsvCCYiZ6SBeO4qzifEXnXn6LFZ7fI7iP02saHN</string>
+    <string name="title_activity_no_internet_message">NoInternetMessage</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
